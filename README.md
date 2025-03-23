@@ -29,7 +29,7 @@
 
 ## 🎥 Featured Instagram Videos
 
-<img src="https://i.imgur.com/your-image.jpg" width="300" alt="Solve-It 3.0">
+![Solve-It 3.0](https://i.imgur.com/your-fixed-image.jpg)
 
 
 
