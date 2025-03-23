@@ -103,9 +103,18 @@
 ---
 
 ## 📊 GitHub Stats:
-![Hanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BG-Hanna&show_icons=true&theme=radical)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BG-Hanna&theme=radical&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BG-Hanna&theme=radical&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BG-Hanna&show_icons=true&theme=radical" alt="Hanna's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=BG-Hanna&theme=radical&hide_border=false" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG-Hanna&theme=radical&layout=compact" alt="Top Languages">
+</p>
+
 
 ---
 ## 🏆 GitHub Trophies
