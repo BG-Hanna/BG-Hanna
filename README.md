@@ -28,7 +28,7 @@
 
 ---
 
-## 🎥 Featured Instagram Videos  
+## 🎥 Tech Geeks Showcase
 
 ### 📌 Solve-It 3.0  
 <div align="center">
