@@ -29,12 +29,12 @@
 
 ## 🎥 Featured Instagram Videos  
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
 
   <!-- Solve-It 3.0 -->
-  <div style="text-align: center;">
+  <div style="text-align: center; flex: 1;">
     <a href="https://www.instagram.com/reel/DF-k4oxtGrJ/?utm_source=ig_web_copy_link" target="_blank" style="text-decoration: none;">
-      <img src="https://i.imgur.com/jnpDZXS.jpeg" width="280" height="auto" alt="Solve-It 3.0" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
+      <img src="https://i.imgur.com/jnpDZXS.jpeg" width="300" height="auto" alt="Solve-It 3.0" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
     </a>
     <div style="background: #161b22; padding: 10px; border-radius: 10px; margin-top: 5px; text-align: center;">
       <p style="font-size: 1em; font-weight: bold;">📌 Solve-It 3.0</p>
@@ -43,9 +43,9 @@
   </div>
 
   <!-- ACF Event 4th Edition -->
-  <div style="text-align: center;">
+  <div style="text-align: center; flex: 1;">
     <a href="https://www.instagram.com/reel/DF-k4oxtGrJ/?utm_source=ig_web_copy_link" target="_blank" style="text-decoration: none;">
-      <img src="https://i.imgur.com/v5vNFCj.jpeg" width="280" height="auto" alt="ACF Event 4th Edition" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
+      <img src="https://i.imgur.com/v5vNFCj.jpeg" width="300" height="auto" alt="ACF Event 4th Edition" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
     </a>
     <div style="background: #161b22; padding: 10px; border-radius: 10px; margin-top: 5px; text-align: center;">
       <p style="font-size: 1em; font-weight: bold;">📌 ACF Event - 4th Edition</p>
@@ -54,6 +54,7 @@
   </div>
 
 </div>
+
 
 
 
