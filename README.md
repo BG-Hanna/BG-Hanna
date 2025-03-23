@@ -25,6 +25,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
+---
+
+## 🎥 Featured Instagram Videos
+
+[![Solve-It 3.0](https://your-thumbnail-url.jpg)](https://www.instagram.com/reel/DDIQmbzxHLf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 
 ### 🔹 Databases & Servers:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
