@@ -29,16 +29,7 @@
 
 ## 🎥 Featured Instagram Videos
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.instagram.com/reel/DDIQmbzxHLf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
-        <img src="https://i.imgur.com/your-image.jpg" width="300" height="auto" alt="Solve-It 3.0">
-      </a>
-      <p><strong>Solve-It 3.0</strong></p>
-    </td>
-  </tr>
-</table>
+![Solve-It 3.0](https://i.imgur.com/your-image.jpg)
 
 
 
