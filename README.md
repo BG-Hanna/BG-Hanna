@@ -154,17 +154,5 @@
 
 ---
 
-## 🚀 Community Engagement  
-<table>
-  <tr>
-    <td align="center">
-      <b>👀 Profile Views:</b><br>
-      <img src="https://visitcount.itsvg.in/api?id=BG-Hanna&icon=1&color=6">
-    </td>
-    <td align="center">
-      <b>💬 Let's Connect:</b><br>
-      <a href="https://instagram.com/hanna.__.bh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-      <a href="https://linkedin.com/in/hanna-bouhouita-guermèch-04127631b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    </td>
-  </tr>
-</table>
+### 👀 Profile Views  
+![Profile Views](https://visitcount.itsvg.in/api?id=BG-Hanna&icon=5&color=6)
