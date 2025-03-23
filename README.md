@@ -29,18 +29,16 @@
 
 ## 🎥 Featured Instagram Videos  
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.instagram.com/reel/DDIQmbzxHLf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
-        <img src="https://i.imgur.com/jnpDZXS.jpeg" width="320" height="auto" alt="Solve-It 3.0">
-      </a>
-      <p><strong>📌 Solve-It 3.0</strong></p>
-      <p>📅 Posted: <strong>December 3, 2024</strong></p>
-      <p>👀 <strong>8K views</strong></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.instagram.com/reel/DDIQmbzxHLf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" style="text-decoration: none;">
+    <img src="https://i.imgur.com/jnpDZXS.jpeg" width="350" height="auto" alt="Solve-It 3.0" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
+  </a>
+  <div style="background: #161b22; padding: 15px; border-radius: 10px; margin-top: 10px; text-align: left; width: 350px;">
+    <p style="font-size: 1.2em; font-weight: bold;">📌 Solve-It 3.0</p>
+    <p> 8K views · December 3, 2024</p>
+  </div>
+</div>
+
 
 
 
