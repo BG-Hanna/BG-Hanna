@@ -154,5 +154,6 @@
 
 ---
 
-### 👀 Profile Views  
-![Profile Views](https://visitcount.itsvg.in/api?id=BG-Hanna&icon=5&color=6)
+### 🌍 Visitors Count  
+![Profile Views](https://komarev.com/ghpvc/?username=BG-Hanna&label=Visitors&color=brightgreen&style=flat-square)
+
