@@ -31,14 +31,14 @@
 
 ### 📌 Solve-It 3.0  
 <div align="center">
-  <a href="https://www.instagram.com/reel/DF-k4oxtGrJ/?utm_source=ig_web_copy_link" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/reel/DDIQmbzxHLf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" style="text-decoration: none;">
     <img src="https://i.imgur.com/jnpDZXS.jpeg" width="350" height="auto" alt="Solve-It 3.0" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
   </a>
   <div style="background: #161b22; padding: 15px; border-radius: 10px; margin-top: 10px; text-align: left; width: 350px;">
     <p style="font-size: 1.2em; font-weight: bold;">📌 Solve-It 3.0</p>
-    <p> 8K views · 3 months ago</p>
+    <p>👀 8K views · 3 months ago</p>
   </div>
-</div>
+</div>  
 
 ---
 
