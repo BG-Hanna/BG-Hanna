@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Hanna!
 
-## 🖥️ Computer Science Engineering Student | AI Enthusiast
+## 🖥️ Computer Science Engineering Student | Specializing in AI
 🎓 **University of 8 May 1945, Guelma**  
 🚀 **Member of [Tech Geeks Guelma](https://www.linkedin.com/company/techgeeks-guelma/posts/?feedView=all)**  
 💡 Passionate about **AI, Backend Development, & Problem-Solving**
