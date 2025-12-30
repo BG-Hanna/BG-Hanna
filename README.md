@@ -1,15 +1,15 @@
-# 🚀 Hi, I'm Hanna!
+#  Hi, I'm Hanna!
 
-## 🖥️ Computer Science Engineering Student | Specializing in AI
-🎓 **University of 8 May 1945, Guelma**  
-🚀 **Member of [Tech Geeks Guelma](https://www.linkedin.com/company/techgeeks-guelma/posts/?feedView=all)**  
-💡 Passionate about **AI, Backend Development, & Problem-Solving**
+## Computer Science Engineering Student | Specializing in AI
+ **University of 8 May 1945, Guelma**  
+ **Member of [Tech Geeks Guelma](https://www.linkedin.com/company/techgeeks-guelma/posts/?feedView=all)**  
+ Passionate about **AI, Backend Development, & Problem-Solving**
 
 ---
 
 ## 🔍 Currently Exploring:
-- 🧠 **Machine Learning & Artificial Intelligence**  
-- ⚙️ **Backend Development** (PHP, MySQL, Laravel, Authentication Systems)
+-  **Machine Learning & Artificial Intelligence**  
+-  **Backend Development** (PHP, MySQL, Laravel, Authentication Systems)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🎥 Highlights in Tech Geeks - Work Showcase -
+##  Highlights in Tech Geeks - Work Showcase -
 
 ### 📌 Solve-It 3.0  
 <div align="center">
@@ -117,19 +117,19 @@
 
 
 ---
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BG-Hanna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 🔝 Top Contributed Repo
+##  Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=BG-Hanna&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
 
 ---
 
-## 🌐 Connect with Me:
+##  Connect with Me:
 <p align="center">
   <a href="https://discord.gg/WWm7YhdQWH">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="40">
@@ -154,6 +154,6 @@
 
 ---
 
-### 🌍 Visitors Count  
+###  Visitors Count  
 ![Profile Views](https://komarev.com/ghpvc/?username=BG-Hanna&label=Visitors&color=brightgreen&style=flat-square)
 
