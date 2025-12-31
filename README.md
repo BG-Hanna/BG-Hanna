@@ -37,7 +37,6 @@
   </a>
   <div style="background: #161b22; padding: 15px; border-radius: 10px; margin-top: 10px; text-align: left; width: 350px;">
     <p style="font-size: 1.2em; font-weight: bold;">📌 Solve-It 3.0</p>
-    <p>👀 8K views · 3 months ago</p>
   </div>
 </div>  
 
@@ -50,7 +49,7 @@
   </a>
   <div style="background: #161b22; padding: 15px; border-radius: 10px; margin-top: 10px; text-align: left; width: 350px;">
     <p style="font-size: 1.2em; font-weight: bold;">📌 ACF Event - 4th Edition</p>
-    <p> 4k • February 6-8, 2025</p>
+    <p> February 6-8, 2025</p>
   </div>
 </div>
 
@@ -63,9 +62,8 @@
     <img src="https://i.imgur.com/77hKUPy.jpeg" width="350" height="auto" alt="AI24DAY" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
   </a>
   <div style="background: #161b22; padding: 15px; border-radius: 10px; margin-top: 10px; text-align: left; width: 350px;">
-    <p style="font-size: 1.2em; font-weight: bold;">📌 AI24DAY</p>
-    <p>📅 April 17, 2024</p>
-    <p>👀 9K views</p>
+    <p style="font-size: 1.2em; font-weight: bold;"> AI24DAY</p>
+    <p> April 17, 2024</p>
   </div>
 </div>  
 
