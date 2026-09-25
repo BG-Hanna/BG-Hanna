@@ -105,29 +105,6 @@ Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine
 
 <br/>
 
-## Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BG-Hanna/BG-Hanna/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BG-Hanna/BG-Hanna/output/github-contribution-grid-snake.svg" />
-    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/BG-Hanna/BG-Hanna/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
-</p>
-
-<br/>
-
-## Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BG-Hanna&show_icons=true&hide_border=true&rank_icon=percentile&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG-Hanna&layout=donut-vertical&hide_border=true&theme=tokyonight" width="34%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BG-Hanna&hide_border=true&theme=tokyonight" width="60%"/>
-</p>
-
 <div align="center">
   <sub>Si une carte n'affiche rien : ouvre son lien image directement dans un nouvel onglet — le service (Vercel gratuit) met parfois quelques secondes à se "réveiller", puis GitHub recharge le cache automatiquement.</sub>
 </div>
