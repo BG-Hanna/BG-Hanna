@@ -21,7 +21,7 @@ Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine
 
 ## Expérience
 
-- **Qimma Digital** — création de contenu digital.
+- **Qimma** — création de contenu digital.
 - **Tech Geeks Guelma** — membre d'une communauté technologique locale.
 
 <br/>
