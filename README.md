@@ -20,201 +20,110 @@
 
 ## Profil
 
-Je suis **étudiante ingénieure en Intelligence Artificielle**, actuellement en **dernière année du cycle d'ingénieur en Informatique** à l'**Université du 8 Mai 1945 de Guelma**.
+Étudiante ingénieure en Intelligence Artificielle, en dernière année du cycle d'ingénieur en Informatique à l'**Université du 8 Mai 1945 de Guelma**.
 
-Mon parcours est orienté vers la conception et le développement de **systèmes intelligents**, avec un intérêt particulier pour l'Intelligence Artificielle, le Machine Learning, l'IA générative, les applications basées sur les LLM, les architectures RAG et l'ingénierie logicielle.
-
-Je m'intéresse à la conception de solutions complètes allant de la **gestion et du traitement des données jusqu'au développement, à l'intégration et au déploiement des applications**.
-
-Mon approche consiste à transformer un problème concret en une solution technique structurée :
-
-**Données → Traitement → Modèle d'IA → API → Application → Infrastructure**
-
-Je porte également un intérêt particulier aux architectures combinant **modèles d'IA, bases de données vectorielles, graphes de connaissances et services backend**.
-
----
-
-## Expérience et engagement
-
-### Qimma Digital
-
-Expérience en **création de contenu digital et gestion des réseaux sociaux**, avec une approche orientée communication, stratégie numérique et développement de présence en ligne.
-
-### Tech Geeks Guelma
-
-Membre d'une **communauté technologique locale**, participant à des initiatives et échanges autour de la technologie, du développement informatique et de l'innovation.
-
----
-
-# Compétences techniques
-
-## Langages de programmation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,dart&perline=7" />
-</p>
-
-Également : **Assembleur**
-
----
-
-## Intelligence Artificielle
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow&perline=1" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge" />
-</p>
-
-**Domaines :**
-
-* Intelligence Artificielle
-* Machine Learning
-* Intelligence Artificielle générative
-* Applications basées sur les LLM
-* Retrieval-Augmented Generation (RAG)
-* Recherche vectorielle
-* Graphes de connaissances
-
----
-
-## Développement backend et API
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,php,laravel&perline=5" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/API_REST-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Conception_d'API-FF6B35?style=for-the-badge" />
-</p>
-
-Compétences :
-
-* Développement d'API REST
-* Conception de services backend
-* Intégration de modèles d'IA
-* Architecture de services
-
----
-
-## Développement frontend et applications
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter&perline=2" />
-</p>
-
-Compétences :
-
-* Développement d'interfaces web
-* Applications mobiles
-* Intégration frontend/backend
-* Développement d'applications basées sur des services d'IA
-
----
-
-## Bases de données et gestion des données
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb,redis,neo4j&perline=6" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Base_de_données_vectorielle-6C47FF?style=for-the-badge" />
-</p>
-
-Technologies :
-
-* MySQL
-* PostgreSQL
-* MariaDB
-* MongoDB
-* Redis
-* Neo4j
-* Qdrant
-
----
-
-## Requêtage et données orientées graphe
-
-<p>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypher-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-</p>
-
-* GraphQL
-* Cypher
-* Neo4j
-* Modélisation et interrogation de graphes de connaissances
-
----
-
-## DevOps et infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,podman,kubernetes&perline=4" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu-make&logoColor=white" />
-</p>
-
-Compétences :
-
-* Git
-* Docker
-* Podman
-* Kubernetes
-* Make
-* Conteneurisation
-* Orchestration
-* Environnement de déploiement
-
----
-
-# Domaines d'intérêt
+Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine Learning, IA générative, applications basées sur les LLM, architectures RAG et ingénierie logicielle — de la donnée jusqu'au déploiement.
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Intelligence_Artificielle-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" />
-<img src="https://img.shields.io/badge/IA_générative-6C47FF?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/Recherche_vectorielle-FF4F64?style=flat-square" />
-<img src="https://img.shields.io/badge/Graphes_de_connaissances-4581C3?style=flat-square" />
-<img src="https://img.shields.io/badge/Ingénierie_backend-009688?style=flat-square" />
-<img src="https://img.shields.io/badge/Développement_d'API-02569B?style=flat-square" />
-<img src="https://img.shields.io/badge/Conteneurisation-2496ED?style=flat-square" />
-
+  <strong>Données → Traitement → Modèle d'IA → API → Application → Infrastructure</strong>
 </p>
 
 ---
 
-# Statistiques GitHub
+## Expérience
+
+- **Qimma Digital** — création de contenu digital et gestion des réseaux sociaux.
+- **Tech Geeks Guelma** — membre d'une communauté technologique locale.
+
+---
+
+## Stack technique
+
+*(survolez une icône pour voir son nom)*
+
+**Langages**
+
+<p>
+  <img title="Python" src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img title="C" src="https://skillicons.dev/icons?i=c" height="45"/>
+  <img title="C++" src="https://skillicons.dev/icons?i=cpp" height="45"/>
+  <img title="Java" src="https://skillicons.dev/icons?i=java" height="45"/>
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="45"/>
+  <img title="PHP" src="https://skillicons.dev/icons?i=php" height="45"/>
+  <img title="Dart" src="https://skillicons.dev/icons?i=dart" height="45"/>
+  <img title="Assembleur" src="https://img.shields.io/badge/-ASM-444444?style=flat-square" height="28"/>
+</p>
+
+**Intelligence Artificielle**
+
+<p>
+  <img title="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+  <img title="Scikit-Learn" src="https://img.shields.io/badge/-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="28"/>
+  <img title="LangChain" src="https://img.shields.io/badge/-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
+  <img title="RAG" src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square" height="28"/>
+  <img title="LLM" src="https://img.shields.io/badge/LLM-412991?style=flat-square" height="28"/>
+</p>
+
+**Backend & API**
+
+<p>
+  <img title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+  <img title="Express" src="https://skillicons.dev/icons?i=express" height="45"/>
+  <img title="Laravel" src="https://skillicons.dev/icons?i=laravel" height="45"/>
+</p>
+
+**Frontend & Mobile**
+
+<p>
+  <img title="React" src="https://skillicons.dev/icons?i=react" height="45"/>
+  <img title="Flutter" src="https://skillicons.dev/icons?i=flutter" height="45"/>
+</p>
+
+**Bases de données**
+
+<p>
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="45"/>
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" height="45"/>
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+  <img title="MariaDB" src="https://skillicons.dev/icons?i=mariadb" height="45"/>
+  <img title="Redis" src="https://skillicons.dev/icons?i=redis" height="45"/>
+  <img title="Neo4j" src="https://skillicons.dev/icons?i=neo4j" height="45"/>
+  <img title="Qdrant (base vectorielle)" src="https://img.shields.io/badge/-FF4F64?style=flat-square" height="28"/>
+</p>
+
+**Graphes & requêtage**
+
+<p>
+  <img title="GraphQL" src="https://img.shields.io/badge/-E10098?style=flat-square&logo=graphql&logoColor=white" height="28"/>
+  <img title="Cypher / Neo4j" src="https://img.shields.io/badge/-4581C3?style=flat-square&logo=neo4j&logoColor=white" height="28"/>
+</p>
+
+**DevOps & Infrastructure**
+
+<p>
+  <img title="Git" src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" height="45"/>
+  <img title="Podman" src="https://skillicons.dev/icons?i=podman" height="45"/>
+  <img title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
+  <img title="Make" src="https://img.shields.io/badge/-427819?style=flat-square&logo=gnu-make&logoColor=white" height="28"/>
+</p>
+
+---
+
+## Statistiques GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BG-Hanna&show_icons=true&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG-Hanna&layout=compact&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BG-Hanna&show_icons=true&hide_border=true&rank_icon=github&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG-Hanna&layout=compact&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=BG-Hanna&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BG-Hanna&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BG-Hanna&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
