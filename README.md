@@ -4,7 +4,6 @@
 
 
 <p>
-  <a href="https://github.com/BG-Hanna"><img src="https://img.shields.io/badge/GitHub-BG--Hanna-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hanna-bouhouita-guermèch-04127631b"><img src="https://img.shields.io/badge/LinkedIn-Hanna%20Bouhouita-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hanna.bouhouita@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
