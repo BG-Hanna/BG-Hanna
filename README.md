@@ -18,17 +18,13 @@
 
 Étudiante ingénieure en Intelligence Artificielle, en dernière année du cycle d'ingénieur en Informatique à l'**Université du 8 Mai 1945 de Guelma**.
 
-Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine Learning, IA générative, applications basées sur les LLM, architectures RAG et ingénierie logicielle — de la donnée jusqu'au déploiement.
-
-<p align="center">
-  <strong>Données → Traitement → Modèle d'IA → API → Application → Infrastructure</strong>
-</p>
+Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine Learning, IA générative, applications basées sur les LLM, architectures RAG et ingénierie logicielle 
 
 <br/>
 
 ## Expérience
 
-- **Qimma Digital** — création de contenu digital et gestion des réseaux sociaux.
+- **Qimma Digital** — création de contenu digital.
 - **Tech Geeks Guelma** — membre d'une communauté technologique locale.
 
 <br/>
