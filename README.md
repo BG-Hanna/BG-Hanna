@@ -1,8 +1,17 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1440,100:2d1f6b&height=160&section=header&text=Hanna%20Bouhouita%20Guerm%C3%A8ch&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Ing%C3%A9nierie%20IA%20%E2%80%94%20Syst%C3%A8mes%20intelligents%2C%20de%20la%20donn%C3%A9e%20au%20d%C3%A9ploiement&descAlignY=65&descSize=15&descColor=c4b5fd" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&pause=1800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Machine+Learning+%26+applications+LLM;Retrieval-Augmented+Generation+%C2%B7+recherche+vectorielle;Architectures+combinant+IA%2C+graphes+et+backend" alt="focus areas" />
+<div align="center">
 
-<br/><br/>
+# Hanna Bouhouita Guermèch
 
-<p> <a href="https://github.com/BG-Hanna"><img src="https://img.shields.io/badge/GitHub-BG--Hanna-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hanna-bouhouita-guermèch-04127631b"><img src="https://img.shields.io/badge/LinkedIn-Hanna%20Bouhouita-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:hanna.bouhouita@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> </div> <br/>
+**Étudiante ingénieure en Intelligence Artificielle**
+Systèmes intelligents · Machine Learning · LLM · RAG
+
+<p>
+  <a href="https://github.com/BG-Hanna"><img src="https://img.shields.io/badge/GitHub-BG--Hanna-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hanna-bouhouita-guermèch-04127631b"><img src="https://img.shields.io/badge/LinkedIn-Hanna%20Bouhouita-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hanna.bouhouita@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+</div>
 
 ## Profil
 
