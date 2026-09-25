@@ -28,48 +28,6 @@
 
 ---
 
-##  Highlights in Tech Geeks - Work Showcase -
-
-### 📌 Solve-It 3.0  
-<div align="center">
-  <a href="https://www.instagram.com/reel/DDIQmbzxHLf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" style="text-decoration: none;">
-    <img src="https://i.imgur.com/jnpDZXS.jpeg" width="350" height="auto" alt="Solve-It 3.0" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
-  </a>
-  <div style="background: #161b22; padding: 15px; border-radius: 10px; margin-top: 10px; text-align: left; width: 350px;">
-    <p style="font-size: 1.2em; font-weight: bold;">📌 Solve-It 3.0</p>
-  </div>
-</div>  
-
----
-
-### 📌 ACF Event - 4th Edition  
-<div align="center">
-  <a href="https://www.instagram.com/reel/DF-k4oxtGrJ/?utm_source=ig_web_copy_link" target="_blank" style="text-decoration: none;">
-    <img src="https://i.imgur.com/v5vNFCj.jpeg" width="350" height="auto" alt="ACF Event 4th Edition" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
-  </a>
-  <div style="background: #161b22; padding: 15px; border-radius: 10px; margin-top: 10px; text-align: left; width: 350px;">
-    <p style="font-size: 1.2em; font-weight: bold;">📌 ACF Event - 4th Edition</p>
-    <p> February 6-8, 2025</p>
-  </div>
-</div>
-
-
----
-
-### 📌 AI24DAY  
-<div align="center">
-  <a href="https://www.instagram.com/reel/C54EtCTM2eS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" style="text-decoration: none;">
-    <img src="https://i.imgur.com/77hKUPy.jpeg" width="350" height="auto" alt="AI24DAY" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.1);">
-  </a>
-  <div style="background: #161b22; padding: 15px; border-radius: 10px; margin-top: 10px; text-align: left; width: 350px;">
-    <p style="font-size: 1.2em; font-weight: bold;"> AI24DAY</p>
-    <p> April 17, 2024</p>
-  </div>
-</div>  
-
-
----
-
 ### 🔹 Databases & Servers:
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40">
