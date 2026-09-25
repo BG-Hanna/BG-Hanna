@@ -73,7 +73,6 @@ Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine
 <img title="MariaDB" src="https://skillicons.dev/icons?i=mariadb&theme=dark" height="42"/>&nbsp;
 <img title="Redis" src="https://skillicons.dev/icons?i=redis&theme=dark" height="42"/>&nbsp;
 <img title="Neo4j" src="https://skillicons.dev/icons?i=neo4j&theme=dark" height="42"/>&nbsp;
-<img title="Qdrant" src="https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge" height="30"/>
 </td></tr>
 
 <tr><td><b>Graphes & requêtage</b></td></tr>
@@ -88,7 +87,6 @@ Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine
 <img title="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" height="42"/>&nbsp;
 <img title="Podman" src="https://skillicons.dev/icons?i=podman&theme=dark" height="42"/>&nbsp;
 <img title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="42"/>&nbsp;
-<img title="Make" src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu-make&logoColor=white" height="30"/>
 </td></tr>
 </table>
 
