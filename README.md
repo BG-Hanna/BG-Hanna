@@ -37,8 +37,6 @@ Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine
 
 <div align="center">
 
-<sub><i>survolez une icône pour voir son nom</i></sub>
-
 <table>
 <tr><td><b>Langages</b></td></tr>
 <tr><td>
