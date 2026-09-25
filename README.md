@@ -105,10 +105,5 @@ Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine
 
 <br/>
 
-<div align="center">
-  <sub>Si une carte n'affiche rien : ouvre son lien image directement dans un nouvel onglet — le service (Vercel gratuit) met parfois quelques secondes à se "réveiller", puis GitHub recharge le cache automatiquement.</sub>
-</div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
