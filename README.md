@@ -14,7 +14,7 @@
 
 Étudiante ingénieure en Intelligence Artificielle, en dernière année du cycle d'ingénieur en Informatique à l'**Université du 8 Mai 1945 de Guelma**.
 
-Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine Learning, IA générative, applications basées sur les LLM et ingénierie logicielle 
+Parcours orienté vers la conception de **systèmes intelligents** , avec une spécialisation en Intelligence Artificielle, Machine Learning, Deep Learning, NLP, IA générative et applications basées sur les LLM, complétée par des compétences en ingénierie logicielle, développement backend/frontend, traitement des données et systèmes distribués.
 
 <br/>
 
