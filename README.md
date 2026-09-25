@@ -2,7 +2,6 @@
 
 # Hanna Bouhouita Guermèch
 
-
 <p>
   <a href="https://github.com/BG-Hanna"><img src="https://img.shields.io/badge/GitHub-BG--Hanna-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hanna-bouhouita-guermèch-04127631b"><img src="https://img.shields.io/badge/LinkedIn-Hanna%20Bouhouita-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -15,7 +14,7 @@
 
 Étudiante ingénieure en Intelligence Artificielle, en dernière année du cycle d'ingénieur en Informatique à l'**Université du 8 Mai 1945 de Guelma**.
 
-Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine Learning, IA générative, applications basées sur les LLM, architectures RAG et ingénierie logicielle 
+Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine Learning, IA générative, applications basées sur les LLM, architectures RAG et ingénierie logicielle
 
 <br/>
 
@@ -47,10 +46,8 @@ Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine
 <tr><td>
 <img title="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="42"/>&nbsp;
 <img title="PyTorch-style ML" src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="42"/>&nbsp;
-<img title="Scikit-Learn" src="https://img.shields.io/badge/-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30"/>&nbsp;
+<img title="Scikit-Learn" src="icons/SciKitLearn.svg" height="42"/>&nbsp;
 <img title="LangChain" src="https://img.shields.io/badge/-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30"/>&nbsp;
-<img title="Retrieval-Augmented Generation" src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge" height="30"/>&nbsp;
-<img title="Large Language Models" src="https://img.shields.io/badge/LLM-412991?style=for-the-badge" height="30"/>
 </td></tr>
 
 <tr><td><b>Backend & API</b></td></tr>
@@ -72,10 +69,10 @@ Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine
 <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" height="42"/>&nbsp;
 <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42"/>&nbsp;
 <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="42"/>&nbsp;
-<img title="MariaDB" src="https://skillicons.dev/icons?i=mariadb&theme=dark" height="42"/>&nbsp;
+<img title="MariaDB" src="icons/mariadb-light.svg" height="42"/>&nbsp;
 <img title="Redis" src="https://skillicons.dev/icons?i=redis&theme=dark" height="42"/>&nbsp;
 <img title="Neo4j" src="https://skillicons.dev/icons?i=neo4j&theme=dark" height="42"/>&nbsp;
-<img title="Qdrant (base vectorielle)" src="https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge" height="30"/>
+<img title="Qdrant" src="icons/qdrant-light.svg" height="36"/>
 </td></tr>
 
 <tr><td><b>Graphes & requêtage</b></td></tr>
@@ -97,3 +94,30 @@ Parcours orienté vers la conception de **systèmes intelligents** : IA, Machine
 </div>
 
 <br/>
+
+## Activité GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BG-Hanna&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" height="165"/>&nbsp;
+<img src="https://streak-stats.demolab.com/?user=BG-Hanna&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG-Hanna&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BG-Hanna&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=C9D1D9&area=true&area_color=8B5CF6"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=BG-Hanna&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>💜 Merci de votre visite — n'hésitez pas à me contacter pour échanger ou collaborer !</sub>
+</div>
