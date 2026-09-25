@@ -90,9 +90,6 @@
   <a href="https://discord.gg/WWm7YhdQWH">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="40">
   </a>
-  <a href="https://instagram.com/hanna.__.bh">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="40">
-  </a>
   <a href="https://linkedin.com/in/hanna-bouhouita-guermèch-04127631b">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
   </a>
