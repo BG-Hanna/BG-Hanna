@@ -1,112 +1,224 @@
-#  Hi, I'm Hanna!
+# Hanna Bouhouita Guermèch
 
-## Computer Science Engineering Student | Specializing in AI
- **University of 8 May 1945, Guelma**  
- **Member of [Tech Geeks Guelma](https://www.linkedin.com/company/techgeeks-guelma/posts/?feedView=all)**  
- Passionate about **AI, Backend Development, & Problem-Solving**
-
----
-
-## 🔍 Currently Exploring:
--  **Machine Learning & Artificial Intelligence**  
--  **Backend Development** (PHP, MySQL, Laravel, Authentication Systems)
-
----
-
-### 🔹 Languages & Frameworks:
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="40">
-</p>
-
----
-
-### 🔹 Databases & Servers:
-<p align="center">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" height="40">
-</p>
-
----
-
-### 🔹 Tools & Platforms:
-<p align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" height="40">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40">
-</p>
-
----
-
-### 🔹 Design & Visualization:
-<p align="center">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="40">
-</p>
-
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BG-Hanna&show_icons=true&theme=radical" alt="Hanna's GitHub Stats">
+  <strong>Étudiante ingénieure en Intelligence Artificielle | AI Engineering | Systèmes intelligents</strong>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BG-Hanna&theme=radical&hide_border=false" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG-Hanna&theme=radical&layout=compact" alt="Top Languages">
-</p>
-
-
----
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BG-Hanna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-##  Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=BG-Hanna&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
-
----
-
-##  Connect with Me:
-<p align="center">
-  <a href="https://discord.gg/WWm7YhdQWH">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="40">
+  <a href="https://github.com/BG-Hanna">
+    <img src="https://img.shields.io/badge/GitHub-BG--Hanna-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/hanna-bouhouita-guermèch-04127631b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
-  </a>
-  <a href="https://stackoverflow.com/users/29097386">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40">
-  </a>
-  <a href="https://twitch.tv/hannabh">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" height="40">
+  <a href="https://www.linkedin.com/in/hanna-bouhouita-guermèch-04127631b">
+    <img src="https://img.shields.io/badge/LinkedIn-Hanna%20Bouhouita-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hanna.bouhouita@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
+
+## Profil
+
+Je suis **étudiante ingénieure en Intelligence Artificielle**, actuellement en **dernière année du cycle d'ingénieur en Informatique** à l'**Université du 8 Mai 1945 de Guelma**.
+
+Mon parcours est orienté vers la conception et le développement de **systèmes intelligents**, avec un intérêt particulier pour l'Intelligence Artificielle, le Machine Learning, l'IA générative, les applications basées sur les LLM, les architectures RAG et l'ingénierie logicielle.
+
+Je m'intéresse à la conception de solutions complètes allant de la **gestion et du traitement des données jusqu'au développement, à l'intégration et au déploiement des applications**.
+
+Mon approche consiste à transformer un problème concret en une solution technique structurée :
+
+**Données → Traitement → Modèle d'IA → API → Application → Infrastructure**
+
+Je porte également un intérêt particulier aux architectures combinant **modèles d'IA, bases de données vectorielles, graphes de connaissances et services backend**.
 
 ---
 
-###  Visitors Count  
-![Profile Views](https://komarev.com/ghpvc/?username=BG-Hanna&label=Visitors&color=brightgreen&style=flat-square)
+## Expérience et engagement
 
+### Qimma Digital
+
+Expérience en **création de contenu digital et gestion des réseaux sociaux**, avec une approche orientée communication, stratégie numérique et développement de présence en ligne.
+
+### Tech Geeks Guelma
+
+Membre d'une **communauté technologique locale**, participant à des initiatives et échanges autour de la technologie, du développement informatique et de l'innovation.
+
+---
+
+# Compétences techniques
+
+## Langages de programmation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,dart&perline=7" />
+</p>
+
+Également : **Assembleur**
+
+---
+
+## Intelligence Artificielle
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow&perline=1" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge" />
+</p>
+
+**Domaines :**
+
+* Intelligence Artificielle
+* Machine Learning
+* Intelligence Artificielle générative
+* Applications basées sur les LLM
+* Retrieval-Augmented Generation (RAG)
+* Recherche vectorielle
+* Graphes de connaissances
+
+---
+
+## Développement backend et API
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,php,laravel&perline=5" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/API_REST-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Conception_d'API-FF6B35?style=for-the-badge" />
+</p>
+
+Compétences :
+
+* Développement d'API REST
+* Conception de services backend
+* Intégration de modèles d'IA
+* Architecture de services
+
+---
+
+## Développement frontend et applications
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter&perline=2" />
+</p>
+
+Compétences :
+
+* Développement d'interfaces web
+* Applications mobiles
+* Intégration frontend/backend
+* Développement d'applications basées sur des services d'IA
+
+---
+
+## Bases de données et gestion des données
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb,redis,neo4j&perline=6" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Base_de_données_vectorielle-6C47FF?style=for-the-badge" />
+</p>
+
+Technologies :
+
+* MySQL
+* PostgreSQL
+* MariaDB
+* MongoDB
+* Redis
+* Neo4j
+* Qdrant
+
+---
+
+## Requêtage et données orientées graphe
+
+<p>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypher-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+</p>
+
+* GraphQL
+* Cypher
+* Neo4j
+* Modélisation et interrogation de graphes de connaissances
+
+---
+
+## DevOps et infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,podman,kubernetes&perline=4" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu-make&logoColor=white" />
+</p>
+
+Compétences :
+
+* Git
+* Docker
+* Podman
+* Kubernetes
+* Make
+* Conteneurisation
+* Orchestration
+* Environnement de déploiement
+
+---
+
+# Domaines d'intérêt
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Intelligence_Artificielle-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square" />
+<img src="https://img.shields.io/badge/IA_générative-6C47FF?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Recherche_vectorielle-FF4F64?style=flat-square" />
+<img src="https://img.shields.io/badge/Graphes_de_connaissances-4581C3?style=flat-square" />
+<img src="https://img.shields.io/badge/Ingénierie_backend-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/Développement_d'API-02569B?style=flat-square" />
+<img src="https://img.shields.io/badge/Conteneurisation-2496ED?style=flat-square" />
+
+</p>
+
+---
+
+# Statistiques GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BG-Hanna&show_icons=true&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BG-Hanna&layout=compact&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=BG-Hanna&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+<p align="center">
+  <strong>Concevoir des systèmes intelligents, de la donnée jusqu'au déploiement.</strong>
+</p>
