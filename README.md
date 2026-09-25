@@ -2,8 +2,6 @@
 
 # Hanna Bouhouita Guermèch
 
-**Étudiante ingénieure en Intelligence Artificielle**
-Systèmes intelligents · Machine Learning · LLM · RAG
 
 <p>
   <a href="https://github.com/BG-Hanna"><img src="https://img.shields.io/badge/GitHub-BG--Hanna-181717?style=flat-square&logo=github&logoColor=white" /></a>
